@@ -1,0 +1,14 @@
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\bin\Debug\net8.0\SynchAsynch.exe
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\bin\Debug\net8.0\SynchAsynch.deps.json
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\bin\Debug\net8.0\SynchAsynch.runtimeconfig.json
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\bin\Debug\net8.0\SynchAsynch.dll
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\bin\Debug\net8.0\SynchAsynch.pdb
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\SynchAsynch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\SynchAsynch.AssemblyInfoInputs.cache
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\SynchAsynch.AssemblyInfo.cs
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\SynchAsynch.csproj.CoreCompileInputs.cache
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\SynchAsynch.dll
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\refint\SynchAsynch.dll
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\SynchAsynch.pdb
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\SynchAsynch.genruntimeconfig.cache
+C:\Users\narek.avanesyan.s\Desktop\SynchAsynch\SynchAsynch\obj\Debug\net8.0\ref\SynchAsynch.dll
